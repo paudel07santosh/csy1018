@@ -1,0 +1,21 @@
+body
+{
+	margin: 2;
+	background: green; padding: 0%;
+	text-align: center;
+
+}
+header{
+	background-color: green;
+	text-align: left;
+}
+body{
+	background-color: blue;
+	font-size: 40;
+	font font-family: times new roman;
+}
+footer{
+	background-color: yellow;
+	text-align:right;
+	font-family: calibri;
+}
