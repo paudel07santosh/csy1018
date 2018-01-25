@@ -8,11 +8,12 @@ body
 header{
 	background-color: green;
 	text-align: left;
+	font-family: cursive;
 }
 body{
 	background-color: blue;
 	font-size: 40;
-	font font-family: times new roman;
+	font-family: times new roman;
 }
 footer{
 	background-color: yellow;
